@@ -1,10 +1,12 @@
-Creating a README file for your custom file server can be a helpful way to explain to others how to use it and what it does. Here's a sample README for your simple file server:
-
----
-
 # My Custom File Server
 
 This is a basic file server built with Node.js and Express, designed to serve files from a specified directory over a local network. It provides a web interface for easy file access and browsing.
+
+
+## Screen Shot
+
+![Alt text](image.png)
+
 
 ## Features
 
@@ -67,6 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This project was built using Node.js and Express.
 
----
-
-Make sure to replace "your-username" and "your-file-server" with your actual GitHub username and repository name if you plan to host this project on GitHub.
